@@ -2,7 +2,7 @@
 <br>
 <p>Projeto "Site de Receitas" sendo executado corretamente, com instruções da <a href="https://rodolfomori.com.br/devclub">DevClub</a></p>
 <br>
-<h4>Esse site é um pequeno projeto que utilizei JavaScript, mostra vários tipos de receitas por base da comida pesquisada, e logo abaixo terá instruções e modo de preparo!</h4>
+<h4>Esse site é um pequeno projeto que utilizei JavaScript, mostra vários tipos de receitas por base de uma API externa. Pesquisando a comida(em inglês), logo abaixo terá instruções e modo de preparo!</h4>
 <br>
 <br>
 <img src="https://github.com/GabrielRocha21/site-de-receitas/blob/master/assets/desktop-instructions.png?raw=true" width=500px> 
